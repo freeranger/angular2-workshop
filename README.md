@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Angular 2 Workshop - AngularConnect London 2015
 ### Presented by Joel Hooks ([@jhooks](https://twitter.com/jhooks)) of egghead.io
 
@@ -14,3 +15,7 @@ We won't go too far down the rabbit hole. We want to dig into Components and the
 "But I love rabbit holes!"
 
 Totally. They are fun, but we've only got so much time in the day!
+=======
+# angular2-workshop
+Angular Connect Workshop
+>>>>>>> 83b03c2bea0e9b652978d55e15da380d36261d65
